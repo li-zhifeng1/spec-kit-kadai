@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+.pytest_cache/
+kaikei.db
+kaikei-verify.db
+.env*
+.DS_Store
+Thumbs.db
